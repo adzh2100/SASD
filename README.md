@@ -1,2 +1,2 @@
-# SASD
-Software architecture and software development
+# Software architectures and software development
+Project for FMI course
