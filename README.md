@@ -1,7 +1,6 @@
-# Software architectures and software development
-Project for FMI course
+# VeloCity
+## Project for FMI course
 
-## VeloCity
 
 ## Описание
 Да се проектира софтуерната архитектура на софтуерната система VeloCity, за отдаване
